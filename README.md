@@ -23,7 +23,7 @@ bash setup.sh
 
 ---
 
-#### ✅ 6. **Push to GitHub**
+#### 6. **Push to GitHub**
 
 1. Go to [https://github.com](https://github.com)
 2. Create a new repo: `ec2-apache-tooplate` (don’t initialize with README)
